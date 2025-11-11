@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Dessert Gallery Bakery & Cafe",
+        "rating": "3.7",
+        "reviewCount": "844 reviews",
+        "isClaimed": "Claimed",
+        "priceLevel": "$",
+        "categories": "Desserts,Bakeries,Cupcakes",
+        "fullAddress": "3600 Kirby Dr Ste D Houston, TX 77098",
+        "city": "Houston",
+        "state": "TX",
+        "zipcode": "77098",
+        "phoneNumber": "(346) 201-6677",
+        "images": [
+            "https://s3-media0.fl.yelpcdn.com/bphoto/VRAJ0PeRF8LmWT8t8Xt-mQ/l.jpg",
+            "https://s3-media0.fl.yelpcdn.com/bphoto/e-GaiGmgaTsErJy3QhPcBw/l.jpg"
+        ],
+        "website": "https://www.dessertgallery.com",
+        "hours": {
+            "Mon": "11:00 AM - 10:00 PM",
+            "Tue": "11:00 AM - 10:00 PM",
+            "Wed": "11:00 AM - 10:00 PM"
+        },
+        "businessOwnerName": "Sara B.",
+        "about": "Established in 1995. Houston's premier dessert bakery known for award-winning cakes and cookies.",
+        "reviewhighlights": [
+            "“The huge chunk of cake was dense and moist, the icing perfectly sweet.”"
+        ],
+        "businessServices": {
+            "Offers Delivery": true,
+            "Offers Takeout": true,
+            "Vegan Options": true,
+            "Women-owned": true
+        },
+        "timestamp": "2025-02-08 02:19:05",
+        "url": "https://www.yelp.com/biz/dessert-gallery-bakery-and-cafe-houston-2",
+        "is_page_not_found": false
+    }
+]
